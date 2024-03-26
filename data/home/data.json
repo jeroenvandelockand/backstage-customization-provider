@@ -79,7 +79,7 @@
       {
         "iconUrl": "/homepage/icons/icons8/openshift.png",
         "label": "OpenShift",
-        "url": ""
+        "url": "https://console-openshift-console.apps.r3dsyz9d.northeurope.aroapp.io/"
       }
     ]
   },
@@ -89,6 +89,11 @@
       {
         "iconUrl": "/homepage/icons/icons8/system-task.png",
         "label": "Grafana",
+        "url": ""
+      },
+      {
+        "iconUrl": "https://github.com/louislam/uptime-kuma/blob/master/public/icon-192x192.png",
+        "label": "Status",
         "url": ""
       }
     ]
