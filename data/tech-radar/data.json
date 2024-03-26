@@ -74,21 +74,6 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
-          "date": "2020-08-06T00:00:00.000Z",
-          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
-        }
-      ],
-      "key": "netcore",
-      "id": "netcore",
-      "title": ".Net Core",
-      "quadrant": "languages",
-      "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
           "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
@@ -97,36 +82,6 @@
       "key": "go",
       "id": "go",
       "title": "Go ",
-      "quadrant": "languages",
-      "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "assess",
-          "date": "2020-08-06T00:00:00.000Z",
-          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
-        }
-      ],
-      "key": "kotlin",
-      "id": "kotlin",
-      "title": "Kotlin ",
-      "quadrant": "languages",
-      "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "hold",
-          "date": "2020-08-06T00:00:00.000Z",
-          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
-        }
-      ],
-      "key": "java8",
-      "id": "java8",
-      "title": "Java <=8",
       "quadrant": "languages",
       "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
     },
@@ -510,25 +465,6 @@
       "key": "openshift",
       "id": "openshift",
       "title": "Openshift 4+",
-      "quadrant": "infrastructure"
-    },
-    {
-      "timeline": [
-        {
-          "ringId": "adopt",
-          "date": "2020-08-06T00:00:00.000Z",
-          "description": "long description"
-        }
-      ],
-      "links": [
-        {
-          "url": "https://github.com",
-          "title": "Learn more"
-        }
-      ],
-      "key": "vault",
-      "id": "vault",
-      "title": "Hashicorp Vault",
       "quadrant": "infrastructure"
     },
     {
