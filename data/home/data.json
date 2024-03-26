@@ -56,11 +56,11 @@
     "links": [
       {
         "iconUrl": "/homepage/icons/icons8/system-task.png",
-        "label": "Grafana",
-        "url": ""
+        "label": "Dashboards",
+        "url": "https://console-openshift-console.apps.r3dsyz9d.northeurope.aroapp.io/monitoring/dashboards"
       },
       {
-        "iconUrl": "https://github.com/louislam/uptime-kuma/blob/master/public/icon.svg",
+        "iconUrl": "/homepage/icons/icons8/system-task.png",
         "label": "Status",
         "url": ""
       }
