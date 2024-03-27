@@ -44,21 +44,6 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
-          "date": "2020-08-06T00:00:00.000Z",
-          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
-        }
-      ],
-      "key": "java11",
-      "id": "java11",
-      "title": "Java 11+",
-      "quadrant": "languages",
-      "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
           "ringId": "trial",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
@@ -102,25 +87,6 @@
       "key": "react",
       "id": "react",
       "title": "React",
-      "quadrant": "frameworks"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "adopt",
-          "date": "2020-08-06T00:00:00.000Z"
-        }
-      ],
-      "links": [
-        {
-          "url": "https://reactjs.org/",
-          "title": "Learn more"
-        }
-      ],
-      "key": "mui",
-      "id": "mui",
-      "title": "MUI",
       "quadrant": "frameworks"
     },
     {
@@ -203,7 +169,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
+          "ringId": "hold",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -216,7 +182,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "assess",
+          "ringId": "hold",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -229,7 +195,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
+          "ringId": "assess",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -242,20 +208,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "assess",
-          "date": "2020-08-06T00:00:00.000Z"
-        }
-      ],
-      "key": "ceph",
-      "id": "ceph",
-      "title": "Ceph",
-      "quadrant": "storage"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "assess",
+          "ringId": "hold",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -281,25 +234,6 @@
       "key": "argocd",
       "id": "argocd",
       "title": "ArgoCD",
-      "quadrant": "infrastructure"
-    },
-    {
-      "timeline": [
-        {
-          "ringId": "assess",
-          "date": "2020-08-06T00:00:00.000Z",
-          "description": "long description"
-        }
-      ],
-      "links": [
-        {
-          "url": "https://github.com",
-          "title": "Learn more"
-        }
-      ],
-      "key": "tekton",
-      "id": "tekton",
-      "title": "Tekton",
       "quadrant": "infrastructure"
     },
     {
@@ -335,9 +269,9 @@
           "title": "Learn more"
         }
       ],
-      "key": "rosa",
-      "id": "rosa",
-      "title": "ROSA",
+      "key": "aro",
+      "id": "aro",
+      "title": "ARO",
       "quadrant": "infrastructure"
     }
   ],
